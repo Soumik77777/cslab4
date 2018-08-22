@@ -25,8 +25,8 @@ kilometrel is the converted length to kilometre*/
 
 //result
 	cout<<"The input length is "<<centimetrel<<" centimetres"<<endl;
-	cout<<"The input length is "<<metrel<<" metres"<<endl;
-	cout<<"The input length is "<<kilometrel<<" kilometres"<<endl;
+	cout<<"It is equal to "<<metrel<<" metres"<<endl;
+	cout<<"And is also equal to "<<kilometrel<<" kilometres"<<endl;
 
 return 0;
 	}
