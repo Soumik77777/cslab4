@@ -23,7 +23,7 @@ celcius is the converted temperature to fahrenheit*/
 
 //result
 	cout<<"The input temperature is "<<fahrenheit<<" degree fahrenheit"<<endl;
-	cout<<"In fahrenheit it is "<<celcius<<" degree celcius"<<endl;
+	cout<<"In celcius scale it is "<<celcius<<" degree celcius"<<endl;
 
 return 0;
 	}
